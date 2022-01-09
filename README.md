@@ -1,4 +1,8 @@
-# jogo-da-forca
+# Jogo da Forca Com Vuejs
+
+## Este é um pequeno projeto onde foi recriado um pequeno jogo da forca com vuejs
+
+
 
 ## Project setup
 ```

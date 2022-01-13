@@ -1,8 +1,8 @@
 # Jogo da Forca Com Vuejs
 
-## Este é um pequeno projeto onde foi recriado um pequeno jogo da forca com vuejs
+## Um jogo de forca desenvolvido com vuejs
 
-
+O clássico jogo da forca foi um um excelente desafio de logica, Primeiro é necessário escolher uma palavra e uma dica, após isso abre um teclado para que você possa escolher as palavras que deseja chutar, a cada lance o sistema descobre ce você errou ou acertou, enforcando o personagem ou colocando a letra certa dentro da lista, você tem um limite de tentativas, onde pode ganhar o jogo ou perder.
 
 ## Project setup
 ```
